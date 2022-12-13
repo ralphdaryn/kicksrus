@@ -1,0 +1,42 @@
+.header {
+  position: relative;
+  height: 100vh;
+  background-image: linear-gradient(
+      to left,
+      rgba($color-black, 0.8),
+      rgba($color-secondary, 0.8)
+    ),
+    url(/resources/images/sneakers.jpeg);
+  background-size: cover;
+  background-position: center;
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 650px, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 650px, 0 100%);
+
+  @include respond(phone) {
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 80vh, 0 90%);
+    clip-path: polygon(0 0, 100% 0, 100% 80vh, 0 90%);
+  }
+  &__logo {
+    position: absolute;
+    top: 3rem;
+    left: 3rem;
+  }
+
+  &__logo-text {
+    height: 3.5rem;
+    color: $color-white;
+    font-size: 2.5rem;
+  }
+
+  &__logo:hover {
+    cursor: pointer;
+  }
+}
+
+.text-box {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
