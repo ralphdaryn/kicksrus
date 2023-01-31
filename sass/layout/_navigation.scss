@@ -90,7 +90,7 @@
         transparent 50%,
         $color-white 50%
       );
-      background-size: 220%;
+      background-size: 225%;
       transition: all 0.5s;
     }
 
@@ -104,7 +104,7 @@
 
   // FUNCTIONALITY
   &__checkbox:checked ~ &__background {
-    transform: scale(80);
+    transform: scale(55);
   }
 
   &__checkbox:checked ~ &__nav {

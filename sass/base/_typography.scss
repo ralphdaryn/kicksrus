@@ -42,6 +42,7 @@
   color: $color-dark-blue;
   letter-spacing: 2px;
   transition: all 0.3s;
+  padding-top: 5rem;
 
   @include respond(tablet-portrait) {
     font-size: 3rem;
