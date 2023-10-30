@@ -1,6 +1,8 @@
 # Kicks R Us - Your Personalized Fashion Hub for the Latest Shoe Trends 👟
 
-![image](https://github.com/ralphdaryn/movienator/assets/74474293/51521750-bcad-4a10-9511-910e2e554182)![image](https://github.com/ralphdaryn/movienator/assets/74474293/ba22d884-90e5-4743-93b2-8ff9e0a2ed98)#
+## Screenshot 📷
+
+![image](https://github.com/ralphdaryn/movienator/assets/74474293/51521750-bcad-4a10-9511-910e2e554182)
 
 ## Introduction 📜
 
