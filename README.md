@@ -3,8 +3,11 @@
 ## Screenshot 📷
 
 ![image](https://github.com/ralphdaryn/movienator/assets/74474293/51521750-bcad-4a10-9511-910e2e554182)
+![kicksrus-feature](https://github.com/ralphdaryn/kicksrus/assets/74474293/4fa51f3f-aad0-4a47-8f6e-838dde32dfdc)
+![kicksrus-card](https://github.com/ralphdaryn/kicksrus/assets/74474293/eb6dcd0c-e481-4f58-bce5-fc4baa386b7d)
 
-## Introduction 📜
+
+## Overview 📜
 
 Welcome to **Kicks R Us**, your personalized fashion hub for the latest shoe trends. We are passionate about shoes and dedicated to bringing you the most stylish and on-trend footwear options. At Kicks R Us, we understand that your choice in shoes is a reflection of your unique style and personality. Our platform is designed to provide a one-of-a-kind shopping experience, curated just for you.
 
